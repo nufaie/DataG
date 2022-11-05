@@ -1,4 +1,4 @@
-#https: // github.com / DataGlacier / VC.git
+
 import json, os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
